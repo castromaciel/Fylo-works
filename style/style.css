@@ -1,0 +1,24 @@
+.bi.bi-stack {
+  color: #c1bbed;
+}
+
+.fylo-works-link {
+  text-decoration: none;
+  display: inline;
+  color: #61c4af;
+  border-bottom: 1px solid #61c4af;
+}
+
+.w-90 {
+  width: 90%;
+}
+
+.pre-footer {
+  background-color: #575989;
+  color: #ffffff;
+}
+
+.footer {
+  background-color: #07043b;
+  color: #ffffff;
+}
